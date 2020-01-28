@@ -7,6 +7,8 @@ namespace Convenor.ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            //do not crash
         }
     }
 }
